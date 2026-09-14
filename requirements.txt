@@ -1,1 +1,2 @@
     requests
+    pocket-option==0.4.0
