@@ -11,7 +11,7 @@ CHAT_ID = os.getenv("CHAT_ID")
 # =========================
 # SCANNER SETTINGS
 # =========================
-SYMBOLS = ["EURUSD", "AUDUSD", "USDJPY", "EURCHF", "GBPUSD"]
+SYMBOLS = ["BTCUSDT", "ETHUSDT", "XRPUSDT", "SOLUSDT", "BNBUSDT"]
 INTERVAL = "1m"
 CHECK_EVERY = 60
 
