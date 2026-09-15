@@ -1,2 +1,2 @@
-    requirements.txt
+    requirements
     pocket-option==0.4.0
